@@ -17,13 +17,13 @@ Package: katana-baseapps
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 24438
+Installed-Size: 24434
 Depends: katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.28), libgcc1 (>= 1:3.0), libstdc++6 (>= 5), libx11-6, xauth, sudo, ctags, cppcheck, lrzsz, libxml2-utils, locate
 Filename: ./katana-baseapps_4.20.0_amd64.deb
-Size: 4706036
-MD5sum: f7f6d2204f43c09d19060a90bde23c91
-SHA1: d2933b0c84d42623886805bc49be75d2deb3e643
-SHA256: 607eced3d80d99d48ba8dc6a8850ac3a9b0591dd7f2797335b5b8b6e056bda72
+Size: 4707756
+MD5sum: dcf1e9373f277b5b4c5780868579750f
+SHA1: dedb8f5422b569ccaba61a527b4090791199f016
+SHA256: 406e1d18e8c833bfd06023f3602c7b45db974d71ccaaa35cf07084c90f27b534
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-baseapps
@@ -33,13 +33,13 @@ Package: katana-extraapps
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 45742
+Installed-Size: 45737
 Depends: katana-baseapps, katana-workspace, katanalibs, katie-runtime (>= 4.10.0), libarchive13 (>= 3.2.1), libasound2 (>= 1.0.16), libatasmart4 (>= 0.13), libblkid1 (>= 2.16), libc6 (>= 2.28), libcups2 (>= 1.6.0), libdbusmenu-katie, libdjvulibre21 (>= 3.5.27.1), libepub0 (>= 0.1.1), libexiv2-14 (>= 0.25), libffmpegthumbnailer4v5, libfreetype6 (>= 2.2.1), libgcc1 (>= 1:3.0), libgcrypt20 (>= 1.8.0), libgettextpo0, libglib2.0-0 (>= 2.37.3), libgmp10, libhunspell-1.7-0, libibus-1.0-5 (>= 1.5.1), libjpeg62-turbo (>= 1.3.1), libmms0 (>= 0.4), libparted-fs-resize0 (>= 3.1), libparted2 (>= 3.1), libpng16-16 (>= 1.6.2-1), libpoppler-katie, libqalculate20, libsane (>= 1.0.24), libscim8v5 (>= 1.4), libspectre1 (>= 0.2.3), libspeechd2 (>= 0.7.1), libstdc++6 (>= 5.2), libvncclient1 (>= 0.9.10), libvncserver1 (>= 0.9.10), libx11-6, libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxtst6, zlib1g (>= 1:1.2.3.4), freerdp2-x11, bluez-obexd, xsltproc, speech-dispatcher, ghostscript
 Filename: ./katana-extraapps_4.20.0_amd64.deb
-Size: 11611296
-MD5sum: b55f7842888c8ff6c2a11fcbb69e8ccf
-SHA1: a412d119c07f644f48240d77051369b1f1a65afe
-SHA256: 28af06af07831d5840100a86cbc14445a211fe582df0f8402558ffe88e9d878e
+Size: 11610576
+MD5sum: c37eeac32c807cf68e42ad3d5ea2ea53
+SHA1: 1f18bdc57b649a47fa51976d0963f9c9deb89630
+SHA256: c0c16c0b6742698805fe8bc7105afa348625447224fb038db3ae74d0975aea9f
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-extraapps
@@ -64,14 +64,14 @@ Package: katana-workspace
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 73636
+Installed-Size: 73619
 Depends: katana-baseapps, katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.28), libdbusmenu-katie, libdrm2 (>= 2.3.1), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc1 (>= 1:3.0), libgl1, libglu1-mesa | libglu1, libgps23 (>= 3.3), libice6 (>= 1:1.0.0), libjpeg62-turbo (>= 1.3.1), libmtp9 (>= 1.1.3), libopenexr23, libpam0g (>= 0.99.7.1), libpci3 (>= 1:3.5.2-1), libpng16-16 (>= 1.6.2-1), libqalculate20, libraw1394-11, libsensors5 (>= 1:3.5.0), libsm6, libsmbclient (>= 2:4.0.3+dfsg1), libssh-4 (>= 0.8.0), libstdc++6 (>= 5.2), libusb-1.0-0 (>= 2:1.0.16), libx11-6, libx11-xcb1, libxau6, libxcb-composite0, libxcb-damage0, libxcb-keysyms1 (>= 0.4.0), libxcb-randr0, libxcb-render0, libxcb-shape0, libxcb-sync1, libxcb-xfixes0, libxcb1 (>= 1.6), libxcomposite1 (>= 1:0.3-1), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxdmcp6, libxext6, libxfixes3, libxft2 (>> 2.1.1), libxi6 (>= 2:1.2.99.4), libxinerama1, libxkbfile1, libxrandr2 (>= 2:1.2.99.3), libxrender1, libxres1, libxtst6, libxxf86vm1, strigi, zlib1g (>= 1:1.1.4), ariya-icons, gdb, xterm, upower, xserver-xorg, x11-xserver-utils, x11-xkb-utils, x11-utils, ttf-dejavu, lm-sensors, pciutils, icoutils, dbus-x11, iso-codes, djvulibre-bin, mtools, fortune, katie-tools, adduser, samba
 Recommends: rar, unrar
 Filename: ./katana-workspace_4.20.0_amd64.deb
-Size: 23560664
-MD5sum: f723a724bddebde5d53497e3922ee8d6
-SHA1: 98e7c9c031af11f5cc429f24c8b092b89cfe97ed
-SHA256: dcccb2967b046165052bd3be87c2e364e56e35beeee0be5e9d8d60284890e5da
+Size: 23558868
+MD5sum: cfc39216d6e305169f78429448b4abe8
+SHA1: a7472ce9fe0ddcfe6b36b69eae92c9921afc6a16
+SHA256: a7a63692eed13ea1eb434612bf8ad0bd4074a55c7733ba30bd41a7b2f82b3aea
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-workspace
@@ -81,13 +81,13 @@ Package: katanalibs
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 33666
+Installed-Size: 33661
 Depends: katie-runtime (>= 4.10.0), libacl1 (>= 2.2.23), libbz2-1.0, libc6 (>= 2.28), libcdio18 (>= 2.0.0), libdbusmenu-katie, libenchant1c2a (>= 1.6.0), libexiv2-14 (>= 0.25), libgcc1 (>= 1:3.0), libgssapi-krb5-2 (>= 1.17), libice6 (>= 1:1.0.0), libilmbase23 (>= 2.2.1), liblzma5 (>= 5.1.1alpha+20120614), libmpv1 (>= 0.7.0), libopenexr23, libraw19 (>= 0.19.0), libsm6, libstdc++6 (>= 5.2), libudev1 (>= 183), libwebp6 (>= 0.5.1), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxss1, libxtst6, strigi, zlib1g (>= 1:1.1.4), xdg-utils, shared-mime-info, media-player-info
 Filename: ./katanalibs_4.20.0_amd64.deb
-Size: 8204340
-MD5sum: 4e1b27b399d61f8a408a47af2021d3c3
-SHA1: e8c95f1eb9248eded2f5a7be7e0d463ac04e4015
-SHA256: 2c398eac139186ec9e1cb43975d90a0230668dd5dd419dcac9f6caddedb5b2b9
+Size: 8208448
+MD5sum: 79e7f6567c78567d807670be6cf48913
+SHA1: 3aac1d671e0422f909306ebe6ac28b0cdce09ab3
+SHA256: 802b445619d874e2732726b1e0681476b198c2af9a747cd686459b1c35ae8e82
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kdelibs
@@ -101,10 +101,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 4000
 Depends: katie-runtime, katie-tools
 Filename: ./katie-dev_4.10.0_amd64.deb
-Size: 378748
-MD5sum: 61b55edbd8a51b164a9e1bbf19bb29a5
-SHA1: 9b9a7a07690147830aa85e75e0b7ad9cda6d6b4e
-SHA256: dd49321f4a7095c5fbac058443acdd00e8bfd362b51f2b9a716f4b0a5661f97a
+Size: 378776
+MD5sum: c45fb15bcd83ad6063e84f37d9111591
+SHA1: 8d6028f70f1a78c6861206953af666a9de9665f8
+SHA256: bb2ef0de13b00f3b66f7b40cd993e308cd0884afa1b7925d2db264ced434f5e5
 Section: devel
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -142,14 +142,14 @@ Source: katie
 Version: 4.10.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 33897
+Installed-Size: 33889
 Depends: libc6 (>= 2.28), libcups2 (>= 1.4.0), libdbus-1-3 (>= 1.9.14), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc1 (>= 1:3.0), libice6 (>= 1:1.0.0), libicu63 (>= 63.1-1~), libjansson4 (>= 2.7), libjpeg62-turbo (>= 1.3.1), libmariadbd19, libodbc1 (>= 2.3.1), libpcre3, libpng16-16 (>= 1.6.2-1), libpq5, libsm6, libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5), libtiff5 (>= 4.0.3), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxinerama1, libxrandr2, libxrender1, libzstd1 (>= 1.3.2), zlib1g (>= 1:1.2.0), xdg-utils
 Recommends: unixodbc, libmariadbclient, xserver-xorg-core
 Filename: ./katie-runtime_4.10.0_amd64.deb
-Size: 8740616
-MD5sum: a9fc48348ce8168f8458f902995baead
-SHA1: 1ccf0852a10ce9a032fe581b40eeaf1964fd7ec0
-SHA256: bd2ddc6e3679af80e8d5cfd27f688e5d72cfbb8b0ee386230b8492feeb39a1a4
+Size: 8728316
+MD5sum: 91830ec960e30372db981a01406f02ff
+SHA1: ed68348ecba917df85918e7d5d89ad7323203065
+SHA256: d63abdc90864f4c9bad7b15cfb8ae755c726180b529f38c300a80c32ce4dd9b6
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -168,10 +168,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 1779
 Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5)
 Filename: ./katie-tools_4.10.0_amd64.deb
-Size: 482824
-MD5sum: eb4e901d9ec3bba14763d7cf35c60769
-SHA1: b1a782f3c34226150565b9435c2b2858ed58c6a0
-SHA256: db887dfbef87cde1333445ad50b1462dbf63a0384618c15f18581c44c3fffc13
+Size: 481916
+MD5sum: 5884b148132ab0c133d22bed61326a75
+SHA1: 4f342be5dc8053b7a3d5c6dedb76d7ad6a49a232
+SHA256: ca5db9399e86558ad04f5a4f31a836e1fcd26a3cc89e1ce41b0ec804d7958e03
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -190,10 +190,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 222
 Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5)
 Filename: ./libdbusmenu-katie_4.20.0_amd64.deb
-Size: 66176
-MD5sum: 87060ab6929b309744a26b13086999d6
-SHA1: 439291439e7eb6c6de9542222ece7daf0f75e9f1
-SHA256: 193d46664130d201e90039085787f29e344897302c5d3d8f6a36c40f3bf1f8c7
+Size: 66320
+MD5sum: 7aa5ecd31d5600851cd1cbbfcf804614
+SHA1: cfecb602866aad9b3a4b55611d01e53e3e617454
+SHA256: 99e4f3eebe9dd3de60caad2d17b888654231cca2daafd23774307f5c0f33b279
 Section: libdevel
 Priority: optional
 Homepage: https://github.com/fluxer/libdbusmenu-qt
@@ -206,10 +206,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 3477
 Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libcurl3-nss (>= 7.23.1), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:3.0), libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.2+git20110628), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.16), libopenjp2-7 (>= 2.0.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 4.9), libtiff5 (>= 4.0.3), zlib1g (>= 1:1.1.4)
 Filename: ./libpoppler-katie_4.20.0_amd64.deb
-Size: 966604
-MD5sum: 403f1ea3154733d4171e220b10cdb82f
-SHA1: e186bd184bd3440400e46c350b62b76a780677f8
-SHA256: c01c77ec6e4f4b1f60cba27ece0fd925c7bddc2ecc13be6cef1e7ba351b2eecb
+Size: 966736
+MD5sum: 5d21fe314f479b5edc5be582faacc176
+SHA1: 765879bf0a40427a10f55c25568abe9c9f413ee2
+SHA256: 8e0bc120c541e7e8106d33371ec1d041b73c12d28eb62bb610cbf9b89000926b
 Section: libdevel
 Priority: optional
 Homepage: https://github.com/fluxer/poppler

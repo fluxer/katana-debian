@@ -4,17 +4,17 @@ Binary: libpoppler-katie
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 4594fad77e5f5675310210c14a43499e 6453684 libpoppler-katie-dbgsym_4.20.0_amd64.deb
- 403f1ea3154733d4171e220b10cdb82f 966604 libpoppler-katie_4.20.0_amd64.deb
+ 63e1d59c74819bcf4cf5787323139892 6452336 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ 5d21fe314f479b5edc5be582faacc176 966736 libpoppler-katie_4.20.0_amd64.deb
 Checksums-Sha1:
- dfe591b65c9896dc2e7605a73d18b11d7cb3b551 6453684 libpoppler-katie-dbgsym_4.20.0_amd64.deb
- e186bd184bd3440400e46c350b62b76a780677f8 966604 libpoppler-katie_4.20.0_amd64.deb
+ 75a2e2f7713a5581cf833776e871d3a5dff87e2f 6452336 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ 765879bf0a40427a10f55c25568abe9c9f413ee2 966736 libpoppler-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- 309bf421eb827d350cd15053a7c1214604b463aa1925ef0f8fb0cdfa0f3afe01 6453684 libpoppler-katie-dbgsym_4.20.0_amd64.deb
- c01c77ec6e4f4b1f60cba27ece0fd925c7bddc2ecc13be6cef1e7ba351b2eecb 966604 libpoppler-katie_4.20.0_amd64.deb
+ b3712965ae499af02120e309abf54cafc052e44f09e76baed69508cd94a8c6dc 6452336 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ 8e0bc120c541e7e8106d33371ec1d041b73c12d28eb62bb610cbf9b89000926b 966736 libpoppler-katie_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sun, 11 Jul 2021 00:38:40 +0300
+Build-Date: Tue, 13 Jul 2021 23:19:32 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
