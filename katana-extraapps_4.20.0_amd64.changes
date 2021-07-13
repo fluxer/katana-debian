@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: katana-extraapps
+Binary: katana-extraapps katana-extraapps-dbgsym
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ katana-extraapps - Katana extra applications
+Changes:
+ katana-extraapps (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 42b22343cc756e9b7ffe1a3d87acd58f1773ba57 215607852 katana-extraapps-dbgsym_4.20.0_amd64.deb
+ f9368a4af04596381ec6675317a1d056cfbc983b 28994 katana-extraapps_4.20.0_amd64.buildinfo
+ a412d119c07f644f48240d77051369b1f1a65afe 11611296 katana-extraapps_4.20.0_amd64.deb
+Checksums-Sha256:
+ b5d59ca50f945f19503f25004671473abc0fad74042009a879df354771ccec9a 215607852 katana-extraapps-dbgsym_4.20.0_amd64.deb
+ 2d77f2c1fe58d13f8776adacf1cd65a995f6e7687dc5371ebaf05b1aae05ee28 28994 katana-extraapps_4.20.0_amd64.buildinfo
+ 28af06af07831d5840100a86cbc14445a211fe582df0f8402558ffe88e9d878e 11611296 katana-extraapps_4.20.0_amd64.deb
+Files:
+ c604105a28dcb25e5b140db13c5d818a 215607852 debug optional katana-extraapps-dbgsym_4.20.0_amd64.deb
+ 8cd8835f245b3e411868d41c9889b575 28994 x11 optional katana-extraapps_4.20.0_amd64.buildinfo
+ b55f7842888c8ff6c2a11fcbb69e8ccf 11611296 x11 optional katana-extraapps_4.20.0_amd64.deb

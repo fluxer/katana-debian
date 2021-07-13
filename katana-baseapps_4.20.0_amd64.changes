@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: katana-baseapps
+Binary: katana-baseapps katana-baseapps-dbgsym
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ katana-baseapps - Katana core applications
+Changes:
+ katana-baseapps (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ f483050efe01ec0187d92bd17c871007b9b185da 74171920 katana-baseapps-dbgsym_4.20.0_amd64.deb
+ 68da3c815ae8b476cea04a0b42ecf84b8dcf4ffd 14019 katana-baseapps_4.20.0_amd64.buildinfo
+ d2933b0c84d42623886805bc49be75d2deb3e643 4706036 katana-baseapps_4.20.0_amd64.deb
+Checksums-Sha256:
+ f8f50631210f7e5af6caab7df5ae2260d19334f2c129a8273455db875bb961f4 74171920 katana-baseapps-dbgsym_4.20.0_amd64.deb
+ d4a48f223852d949aeda5cf592e02e284c227ddb84fd5acca53e4c09879a4475 14019 katana-baseapps_4.20.0_amd64.buildinfo
+ 607eced3d80d99d48ba8dc6a8850ac3a9b0591dd7f2797335b5b8b6e056bda72 4706036 katana-baseapps_4.20.0_amd64.deb
+Files:
+ 8ce2ed1d3fb37059506a96de635d2886 74171920 debug optional katana-baseapps-dbgsym_4.20.0_amd64.deb
+ 7fe724a9c4d01a75a77e25c0f77c36bd 14019 x11 optional katana-baseapps_4.20.0_amd64.buildinfo
+ f7f6d2204f43c09d19060a90bde23c91 4706036 x11 optional katana-baseapps_4.20.0_amd64.deb

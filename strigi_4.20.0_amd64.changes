@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: strigi
+Binary: strigi strigi-dbgsym
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ strigi     - File indexing and file search framework adopted by Katana
+Changes:
+ strigi (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 6eb817193212eff800c0d438d77fed3c2aa14e44 6355752 strigi-dbgsym_4.20.0_amd64.deb
+ af1bb13958c0823e753d4871fce8bc2a3f6928f9 9159 strigi_4.20.0_amd64.buildinfo
+ 8b7adf50a3d7f68e8c24b941f14f6f9608540e9d 355356 strigi_4.20.0_amd64.deb
+Checksums-Sha256:
+ 998aa3db716eac88f31bb7e999ac34dba3b41122e1ac4f0cca77f44362d9bf9f 6355752 strigi-dbgsym_4.20.0_amd64.deb
+ fedb7fefde72003fda9a202330db8b960e7e827706333bd3b4289180c4b8c230 9159 strigi_4.20.0_amd64.buildinfo
+ f9adbe1d24852ec8a47c33f98f0acc06098574cbabfa9baf5c6f36e4fe1d26a3 355356 strigi_4.20.0_amd64.deb
+Files:
+ b0dfc416324e243f14eb611c81123ce8 6355752 debug optional strigi-dbgsym_4.20.0_amd64.deb
+ 322fa7aa6072102a11ffc98915b6e1c2 9159 libdevel optional strigi_4.20.0_amd64.buildinfo
+ b526136af6e8f9d4f48f7816330ffe31 355356 libdevel optional strigi_4.20.0_amd64.deb

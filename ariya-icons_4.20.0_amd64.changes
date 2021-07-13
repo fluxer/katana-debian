@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: ariya-icons
+Binary: ariya-icons
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ ariya-icons - Ariya icon theme for use with Katana
+Changes:
+ ariya-icons (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ dba1452f8c9856335aa37080968dce0b7a440b6a 6055 ariya-icons_4.20.0_amd64.buildinfo
+ efbd54010e918c8bea351f296c8abb4ea9b0c1b3 9972468 ariya-icons_4.20.0_amd64.deb
+Checksums-Sha256:
+ 486c5073ff1c1d0f5586250e605eb1163b4b6a5f9943f70733aa89cbae1b8f67 6055 ariya-icons_4.20.0_amd64.buildinfo
+ b2eea42121d6667c8b6d971ff45137508570778927d6a8d7019cda4608008db7 9972468 ariya-icons_4.20.0_amd64.deb
+Files:
+ 5abf1af32d370af53cace3bd72da0d7c 6055 misc optional ariya-icons_4.20.0_amd64.buildinfo
+ 66715ef52239f66d19f4f3ea30484631 9972468 misc optional ariya-icons_4.20.0_amd64.deb

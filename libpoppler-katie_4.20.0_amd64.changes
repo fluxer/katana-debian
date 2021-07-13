@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: libpoppler-katie
+Binary: libpoppler-katie libpoppler-katie-dbgsym
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ libpoppler-katie - Katie bindings for poppler
+Changes:
+ libpoppler-katie (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ dfe591b65c9896dc2e7605a73d18b11d7cb3b551 6453684 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ be059369700fd745b07f769cfb413cf9e47fc102 8447 libpoppler-katie_4.20.0_amd64.buildinfo
+ e186bd184bd3440400e46c350b62b76a780677f8 966604 libpoppler-katie_4.20.0_amd64.deb
+Checksums-Sha256:
+ 309bf421eb827d350cd15053a7c1214604b463aa1925ef0f8fb0cdfa0f3afe01 6453684 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ fbf8ea45695b663b1b026d2a2b663eb1744852b8f35cd14d22e6efdea8bf1b51 8447 libpoppler-katie_4.20.0_amd64.buildinfo
+ c01c77ec6e4f4b1f60cba27ece0fd925c7bddc2ecc13be6cef1e7ba351b2eecb 966604 libpoppler-katie_4.20.0_amd64.deb
+Files:
+ 4594fad77e5f5675310210c14a43499e 6453684 debug optional libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ bc80ce0f8a81da8437c4986521c7aa23 8447 libdevel optional libpoppler-katie_4.20.0_amd64.buildinfo
+ 403f1ea3154733d4171e220b10cdb82f 966604 libdevel optional libpoppler-katie_4.20.0_amd64.deb

@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: katana-l10n
+Binary: katana-l10n
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ katana-l10n - Katana translations
+Changes:
+ katana-l10n (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 77b96e5162277c32d5d48a41cf178e9d8e9e6927 13637 katana-l10n_4.20.0_amd64.buildinfo
+ 556816e7b06b2d4aa5296a5537b2337f514a3980 21585892 katana-l10n_4.20.0_amd64.deb
+Checksums-Sha256:
+ 8eee390ed2b2c73904060f04f140e213c628f46370eaab201d184c2a0448a8af 13637 katana-l10n_4.20.0_amd64.buildinfo
+ d69b92c5a1438c1715d958a051aac9410d426e7b9d321309c3a58dbbab3667cc 21585892 katana-l10n_4.20.0_amd64.deb
+Files:
+ dde4a83e001d40495b80d17de83f7c25 13637 localization optional katana-l10n_4.20.0_amd64.buildinfo
+ ca185f32db6d76414b62b80ad7f65f8f 21585892 localization optional katana-l10n_4.20.0_amd64.deb
