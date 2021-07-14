@@ -4,17 +4,17 @@ Binary: katanalibs
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- d9d98cc2c08fee0c5f9ca02f38543fe7 105098996 katanalibs-dbgsym_4.20.0_amd64.deb
- 54d2dec6d0bfd055f43d1f32026879b0 8173372 katanalibs_4.20.0_amd64.deb
+ 5cfda7359ea9304a001ae571c42834ce 104981092 katanalibs-dbgsym_4.20.0_amd64.deb
+ a7eb4b67d4393f5c16608bbba0e843af 8172720 katanalibs_4.20.0_amd64.deb
 Checksums-Sha1:
- 1ded5034e9f3b249648805f2a2bedd97ed28f6ad 105098996 katanalibs-dbgsym_4.20.0_amd64.deb
- 52a61f9c13995e5f3ecb42ed8da9f3669c7328ca 8173372 katanalibs_4.20.0_amd64.deb
+ 809320e86d06223ddc2f7a466d8f7e563ad19864 104981092 katanalibs-dbgsym_4.20.0_amd64.deb
+ 31ed49d8e22fa0f6d65adf36e767a3f8e18041f7 8172720 katanalibs_4.20.0_amd64.deb
 Checksums-Sha256:
- 183a56cea4a2df070a5f75b306c96bd4aa0bd0381a83823d6a2228919c88e2aa 105098996 katanalibs-dbgsym_4.20.0_amd64.deb
- acbf95e3aa68f22c6c4f9483238ff5c5d541eb87bf5222390dba349ff3823f71 8173372 katanalibs_4.20.0_amd64.deb
+ c106e87d1c595a2ae733853eefc330baa196d49aa2eeeabc990437adfa26eeba 104981092 katanalibs-dbgsym_4.20.0_amd64.deb
+ 50e45851a81fd1cc2c9a7087be9cfb01d3a425c1190586f0536d74af85d91b2a 8172720 katanalibs_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 14 Jul 2021 02:41:51 +0300
+Build-Date: Wed, 14 Jul 2021 13:16:07 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -38,7 +38,7 @@ Installed-Build-Depends:
  bsdutils (= 1:2.33.1-0.1),
  build-essential (= 12.6),
  bzip2 (= 1.0.6-9.2~deb10u1),
- clang-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ clang-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  cmake (= 3.13.4-1),
  cmake-data (= 3.13.4-1),
  comerr-dev (= 2.1-1.44.5-1+deb10u3),
@@ -140,9 +140,9 @@ Installed-Build-Depends:
  libcdio-paranoia2 (= 10.2+0.94+2-4),
  libcdio18 (= 2.0.0-2),
  libchromaprint1 (= 1.4.3-3),
- libclang-common-11-dev (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang-cpp11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang1-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libclang-common-12-dev (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang-cpp12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang1-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  libcodec2-0.8.1 (= 0.8.1-2),
  libcom-err2 (= 1.44.5-1+deb10u3),
  libcroco3 (= 0.6.12-3),
@@ -267,7 +267,7 @@ Installed-Build-Depends:
  libldap-common (= 2.4.47+dfsg-3+deb10u6),
  libldb1 (= 2:1.5.1+really1.4.6-3+deb10u1),
  liblilv-0-0 (= 0.24.2~dfsg0-2),
- libllvm11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libllvm12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  libllvm7 (= 1:7.0.1-8+deb10u2),
  liblmdb0 (= 0.9.22-1),
  liblsan0 (= 8.3.0-6),
@@ -527,6 +527,7 @@ Installed-Build-Depends:
  libzvbi-common (= 0.2.35-16),
  libzvbi0 (= 0.2.35-16),
  linux-libc-dev (= 4.19.194-2),
+ llvm-12-linker-tools (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  login (= 1:4.5-1.1),
  lsb-base (= 10.2019051400),
  m4 (= 1.4.18-2),

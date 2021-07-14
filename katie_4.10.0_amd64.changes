@@ -18,26 +18,26 @@ Changes:
  .
    * Fourth package update
 Checksums-Sha1:
- d568159ff4a3a3a211c2f9ac11b2827a133fab86 378604 katie-dev_4.10.0_amd64.deb
+ 76d3e171d87cc101f840247964219d7be75badfe 378636 katie-dev_4.10.0_amd64.deb
  9d359b0be2e9483429b9b1ede2978808d8aa5c65 15388 katie-doc_4.10.0_all.deb
- 4c275fe7c3d66d04ce18b1f37efb060a8ff6e901 150460372 katie-runtime-dbgsym_4.10.0_amd64.deb
- 1826196ec0c9f441b7f3c760df530c1a95fa23bf 8688108 katie-runtime_4.10.0_amd64.deb
- d9feea23898f379d0992d95643febf3da8610dbb 7890100 katie-tools-dbgsym_4.10.0_amd64.deb
- bf6b45ba743643957913f246f39392a3cf32d7bd 478456 katie-tools_4.10.0_amd64.deb
- 94fe83195c84e365260a9d395f3457e717b12078 11769 katie_4.10.0_amd64.buildinfo
+ 9f9510837fd29b19eac3ee48ae3d33b6125bbeb9 150274140 katie-runtime-dbgsym_4.10.0_amd64.deb
+ 9de07e3b910efcf4f106e0048f86c11f830dbb37 8675260 katie-runtime_4.10.0_amd64.deb
+ c686093598cfba9830353e1b45642137f7387409 7874236 katie-tools-dbgsym_4.10.0_amd64.deb
+ ebc32d060285c12eae22dba8a8590fd9dfefee4f 477644 katie-tools_4.10.0_amd64.deb
+ 697c9218c73abcc75444eca3ac1bef5ef2a0af66 11861 katie_4.10.0_amd64.buildinfo
 Checksums-Sha256:
- 45b0bcb9148b9982c030584b14e3950401ba08d9a34b568b3f9543ee12b23e07 378604 katie-dev_4.10.0_amd64.deb
+ e81f9a8d37f0a7727e60f839607267f4f893e3d234354b22527ab29f27176c97 378636 katie-dev_4.10.0_amd64.deb
  0ca9815a45cc01a36e508bc68d39a02c7e137e98238e6b0f7520c446c711b304 15388 katie-doc_4.10.0_all.deb
- 501cbbca3700170f4dd04344fbfd1809d65ffe7eed2e05da4c1effb363ea4c22 150460372 katie-runtime-dbgsym_4.10.0_amd64.deb
- f563f098b194174a4478981b1e4013cd77954a48e92182a844633ead23ad4739 8688108 katie-runtime_4.10.0_amd64.deb
- 376bb5fc723cd06ed1571ba7bc60e39cb74f66ffe4b8d58231c41b61e4fa6ce6 7890100 katie-tools-dbgsym_4.10.0_amd64.deb
- 7c339310397f864458d6a0bc073c1db892f4577e30d68cda41e9ebfb8f95a316 478456 katie-tools_4.10.0_amd64.deb
- bbda37003b01938fbe2033d17229749ae12e3d9e7cc8e48f7e40a16a961d601e 11769 katie_4.10.0_amd64.buildinfo
+ 839b68baf76e207bbfa7554afe47d094a77c5bcf002398c7b1e29990544b605e 150274140 katie-runtime-dbgsym_4.10.0_amd64.deb
+ 989dd6f14fb689918c2e23e5d55637a15d1843b379b5eef6560cfc8b02fb4acd 8675260 katie-runtime_4.10.0_amd64.deb
+ 8b2538d08f21b0070f6d51b1f99570bfecfdc12ddb1d660f2b9a43ef6f959fdd 7874236 katie-tools-dbgsym_4.10.0_amd64.deb
+ af9246504c449c60b9a18944f6139fef65abe4e9cd3d0f9c1c14e9574beb2868 477644 katie-tools_4.10.0_amd64.deb
+ d68e8076d528c44d14c6265f5306ad12d1512fc5871289f6a060e876fd8e556a 11861 katie_4.10.0_amd64.buildinfo
 Files:
- 7af391883c732021d8f5a20e0b0210b6 378604 devel optional katie-dev_4.10.0_amd64.deb
+ 0f96cb81caffd917a7cd9a3fb284ac9c 378636 devel optional katie-dev_4.10.0_amd64.deb
  307a1d7336a7eacbd25f96068872eb76 15388 doc optional katie-doc_4.10.0_all.deb
- 6dbfbeec08e135ea1c3f14b9d2f2fd8e 150460372 debug optional katie-runtime-dbgsym_4.10.0_amd64.deb
- a737c772cd836b60f59f3577e0dd739a 8688108 x11 optional katie-runtime_4.10.0_amd64.deb
- a008feb8b24c0f519cde5e0353ff5b3d 7890100 debug optional katie-tools-dbgsym_4.10.0_amd64.deb
- 0db2457366fa14c270d3cf04c0cdba1b 478456 x11 optional katie-tools_4.10.0_amd64.deb
- 9b877b3521ea486e24ba35bcf8385be7 11769 - optional katie_4.10.0_amd64.buildinfo
+ afc7324a962fef3e134c87335c1156f5 150274140 debug optional katie-runtime-dbgsym_4.10.0_amd64.deb
+ 543b31985d832c2bdf01c428ba73940c 8675260 x11 optional katie-runtime_4.10.0_amd64.deb
+ fa0d864309356fdc4962ba04d3a2e39b 7874236 debug optional katie-tools-dbgsym_4.10.0_amd64.deb
+ f7e71605eac0c6d312c83d10f88e8bc3 477644 x11 optional katie-tools_4.10.0_amd64.deb
+ 034f7e9f3ec597675bf74d46f862d64b 11861 - optional katie_4.10.0_amd64.buildinfo

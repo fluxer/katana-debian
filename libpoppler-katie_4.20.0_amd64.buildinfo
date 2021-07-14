@@ -4,17 +4,17 @@ Binary: libpoppler-katie
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- d9543e2c90de00f1b683eedd0094015e 6434804 libpoppler-katie-dbgsym_4.20.0_amd64.deb
- 9eb4037bea2e8ad370b87b83f4d6eaa2 962400 libpoppler-katie_4.20.0_amd64.deb
+ 56ced57b1d0abe9eadedcca90e101c12 6433212 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ f93a92bcd2ee54cd21a8e0e83a625468 963008 libpoppler-katie_4.20.0_amd64.deb
 Checksums-Sha1:
- ae9611bf3f050ad2fc2d9a6e5671eae3732ebbf6 6434804 libpoppler-katie-dbgsym_4.20.0_amd64.deb
- 2b2c5dad5383eac7029b2cbebcd400b0c036b5cf 962400 libpoppler-katie_4.20.0_amd64.deb
+ da27680ec824a224c71a80a0668cb461a114d768 6433212 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ d0293aba8f5b82f1a5913acf067612fceb096c86 963008 libpoppler-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- e304d4f1f1a2b5c03aded88f30cb4611275eccd11b112b08b1242b369642face 6434804 libpoppler-katie-dbgsym_4.20.0_amd64.deb
- 0d568d1b98f828511c5ef6de1b0c030b62e913209fd64b5ed52e28dadbe21c4f 962400 libpoppler-katie_4.20.0_amd64.deb
+ 78e93d84d04a8148071f920ff93265cf3a71a85d66c4a28b22706c34ef5def89 6433212 libpoppler-katie-dbgsym_4.20.0_amd64.deb
+ 15a792ee430ca416f60380a04ca1f1be26e49edc6c94437c19e70a43d231974f 963008 libpoppler-katie_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 14 Jul 2021 02:29:08 +0300
+Build-Date: Wed, 14 Jul 2021 13:03:12 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -33,7 +33,7 @@ Installed-Build-Depends:
  bsdutils (= 1:2.33.1-0.1),
  build-essential (= 12.6),
  bzip2 (= 1.0.6-9.2~deb10u1),
- clang-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ clang-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  cmake (= 3.13.4-1),
  cmake-data (= 3.13.4-1),
  coreutils (= 8.30-3),
@@ -97,9 +97,9 @@ Installed-Build-Depends:
  libc6-i386 (= 2.28-10),
  libcap-ng0 (= 0.7.9-2),
  libcc1-0 (= 8.3.0-6),
- libclang-common-11-dev (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang-cpp11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang1-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libclang-common-12-dev (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang-cpp12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang1-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  libcom-err2 (= 1.44.5-1+deb10u3),
  libcroco3 (= 0.6.12-3),
  libcups2 (= 2.2.10-6+deb10u4),
@@ -154,7 +154,7 @@ Installed-Build-Depends:
  liblcms2-dev (= 2.9-3),
  libldap-2.4-2 (= 2.4.47+dfsg-3+deb10u6),
  libldap-common (= 2.4.47+dfsg-3+deb10u6),
- libllvm11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libllvm12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  liblsan0 (= 8.3.0-6),
  libltdl7 (= 2.4.6-9),
  liblz4-1 (= 1.8.3-1+deb10u1),
@@ -239,6 +239,7 @@ Installed-Build-Depends:
  libxrender1 (= 1:0.9.10-1),
  libzstd1 (= 1.3.8+dfsg-3+deb10u2),
  linux-libc-dev (= 4.19.194-2),
+ llvm-12-linker-tools (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  login (= 1:4.5-1.1),
  lsb-base (= 10.2019051400),
  m4 (= 1.4.18-2),

@@ -4,17 +4,17 @@ Binary: libdbusmenu-katie
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- a48768d6350604503d7cd4e39921d8b2 1045960 libdbusmenu-katie-dbgsym_4.20.0_amd64.deb
- d777161c5074dfa13f2de05f0dc66b22 65444 libdbusmenu-katie_4.20.0_amd64.deb
+ 8a3faaa14cceaa6db209e4163dd7f76a 1044804 libdbusmenu-katie-dbgsym_4.20.0_amd64.deb
+ c4f087f5cadffd613ca57a18026ff1d9 65360 libdbusmenu-katie_4.20.0_amd64.deb
 Checksums-Sha1:
- 1f35d29735740fbc6a98e9a386878e2418f9ee8c 1045960 libdbusmenu-katie-dbgsym_4.20.0_amd64.deb
- d671c11284daa9fda348b465bfd1a9540eee59b9 65444 libdbusmenu-katie_4.20.0_amd64.deb
+ d1dea044193232d917c8b08c417a8bc1cdd00029 1044804 libdbusmenu-katie-dbgsym_4.20.0_amd64.deb
+ 145567678a8601921d62e2e061edf905a31fe405 65360 libdbusmenu-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- f1552d0b48edac6ac084e2d1fa4a0270debbb67586eb021d799d4a7ed2df3bbe 1045960 libdbusmenu-katie-dbgsym_4.20.0_amd64.deb
- b42c674ecb51dd7a531a0135d2002cda73fc79f947c0e02f9ddb3fad7b13f889 65444 libdbusmenu-katie_4.20.0_amd64.deb
+ ceb1397fd5f62be0fce9d5d8fc3d13d1c87793547e741a397834bdd933475aa9 1044804 libdbusmenu-katie-dbgsym_4.20.0_amd64.deb
+ cd3b10fbd72f6627787d004e66ae9ab3b06c8e4c71f9df4903b6dac5b4f7d8ce 65360 libdbusmenu-katie_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 14 Jul 2021 02:29:49 +0300
+Build-Date: Wed, 14 Jul 2021 13:03:37 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -33,7 +33,7 @@ Installed-Build-Depends:
  bsdutils (= 1:2.33.1-0.1),
  build-essential (= 12.6),
  bzip2 (= 1.0.6-9.2~deb10u1),
- clang-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ clang-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  cmake (= 3.13.4-1),
  cmake-data (= 3.13.4-1),
  coreutils (= 8.30-3),
@@ -97,9 +97,9 @@ Installed-Build-Depends:
  libc6-i386 (= 2.28-10),
  libcap-ng0 (= 0.7.9-2),
  libcc1-0 (= 8.3.0-6),
- libclang-common-11-dev (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang-cpp11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang1-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libclang-common-12-dev (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang-cpp12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang1-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  libcom-err2 (= 1.44.5-1+deb10u3),
  libcroco3 (= 0.6.12-3),
  libcups2 (= 2.2.10-6+deb10u4),
@@ -144,7 +144,7 @@ Installed-Build-Depends:
  libkrb5support0 (= 1.17-3+deb10u1),
  libldap-2.4-2 (= 2.4.47+dfsg-3+deb10u6),
  libldap-common (= 2.4.47+dfsg-3+deb10u6),
- libllvm11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libllvm12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  liblsan0 (= 8.3.0-6),
  libltdl7 (= 2.4.6-9),
  liblz4-1 (= 1.8.3-1+deb10u1),
@@ -218,6 +218,7 @@ Installed-Build-Depends:
  libxrender1 (= 1:0.9.10-1),
  libzstd1 (= 1.3.8+dfsg-3+deb10u2),
  linux-libc-dev (= 4.19.194-2),
+ llvm-12-linker-tools (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  login (= 1:4.5-1.1),
  lsb-base (= 10.2019051400),
  m4 (= 1.4.18-2),

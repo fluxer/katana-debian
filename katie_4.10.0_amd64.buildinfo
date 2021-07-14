@@ -4,29 +4,29 @@ Binary: katie-runtime katie-tools katie-dev katie-doc
 Architecture: all amd64
 Version: 4.10.0
 Checksums-Md5:
- 7af391883c732021d8f5a20e0b0210b6 378604 katie-dev_4.10.0_amd64.deb
+ 0f96cb81caffd917a7cd9a3fb284ac9c 378636 katie-dev_4.10.0_amd64.deb
  307a1d7336a7eacbd25f96068872eb76 15388 katie-doc_4.10.0_all.deb
- 6dbfbeec08e135ea1c3f14b9d2f2fd8e 150460372 katie-runtime-dbgsym_4.10.0_amd64.deb
- a737c772cd836b60f59f3577e0dd739a 8688108 katie-runtime_4.10.0_amd64.deb
- a008feb8b24c0f519cde5e0353ff5b3d 7890100 katie-tools-dbgsym_4.10.0_amd64.deb
- 0db2457366fa14c270d3cf04c0cdba1b 478456 katie-tools_4.10.0_amd64.deb
+ afc7324a962fef3e134c87335c1156f5 150274140 katie-runtime-dbgsym_4.10.0_amd64.deb
+ 543b31985d832c2bdf01c428ba73940c 8675260 katie-runtime_4.10.0_amd64.deb
+ fa0d864309356fdc4962ba04d3a2e39b 7874236 katie-tools-dbgsym_4.10.0_amd64.deb
+ f7e71605eac0c6d312c83d10f88e8bc3 477644 katie-tools_4.10.0_amd64.deb
 Checksums-Sha1:
- d568159ff4a3a3a211c2f9ac11b2827a133fab86 378604 katie-dev_4.10.0_amd64.deb
+ 76d3e171d87cc101f840247964219d7be75badfe 378636 katie-dev_4.10.0_amd64.deb
  9d359b0be2e9483429b9b1ede2978808d8aa5c65 15388 katie-doc_4.10.0_all.deb
- 4c275fe7c3d66d04ce18b1f37efb060a8ff6e901 150460372 katie-runtime-dbgsym_4.10.0_amd64.deb
- 1826196ec0c9f441b7f3c760df530c1a95fa23bf 8688108 katie-runtime_4.10.0_amd64.deb
- d9feea23898f379d0992d95643febf3da8610dbb 7890100 katie-tools-dbgsym_4.10.0_amd64.deb
- bf6b45ba743643957913f246f39392a3cf32d7bd 478456 katie-tools_4.10.0_amd64.deb
+ 9f9510837fd29b19eac3ee48ae3d33b6125bbeb9 150274140 katie-runtime-dbgsym_4.10.0_amd64.deb
+ 9de07e3b910efcf4f106e0048f86c11f830dbb37 8675260 katie-runtime_4.10.0_amd64.deb
+ c686093598cfba9830353e1b45642137f7387409 7874236 katie-tools-dbgsym_4.10.0_amd64.deb
+ ebc32d060285c12eae22dba8a8590fd9dfefee4f 477644 katie-tools_4.10.0_amd64.deb
 Checksums-Sha256:
- 45b0bcb9148b9982c030584b14e3950401ba08d9a34b568b3f9543ee12b23e07 378604 katie-dev_4.10.0_amd64.deb
+ e81f9a8d37f0a7727e60f839607267f4f893e3d234354b22527ab29f27176c97 378636 katie-dev_4.10.0_amd64.deb
  0ca9815a45cc01a36e508bc68d39a02c7e137e98238e6b0f7520c446c711b304 15388 katie-doc_4.10.0_all.deb
- 501cbbca3700170f4dd04344fbfd1809d65ffe7eed2e05da4c1effb363ea4c22 150460372 katie-runtime-dbgsym_4.10.0_amd64.deb
- f563f098b194174a4478981b1e4013cd77954a48e92182a844633ead23ad4739 8688108 katie-runtime_4.10.0_amd64.deb
- 376bb5fc723cd06ed1571ba7bc60e39cb74f66ffe4b8d58231c41b61e4fa6ce6 7890100 katie-tools-dbgsym_4.10.0_amd64.deb
- 7c339310397f864458d6a0bc073c1db892f4577e30d68cda41e9ebfb8f95a316 478456 katie-tools_4.10.0_amd64.deb
+ 839b68baf76e207bbfa7554afe47d094a77c5bcf002398c7b1e29990544b605e 150274140 katie-runtime-dbgsym_4.10.0_amd64.deb
+ 989dd6f14fb689918c2e23e5d55637a15d1843b379b5eef6560cfc8b02fb4acd 8675260 katie-runtime_4.10.0_amd64.deb
+ 8b2538d08f21b0070f6d51b1f99570bfecfdc12ddb1d660f2b9a43ef6f959fdd 7874236 katie-tools-dbgsym_4.10.0_amd64.deb
+ af9246504c449c60b9a18944f6139fef65abe4e9cd3d0f9c1c14e9574beb2868 477644 katie-tools_4.10.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 14 Jul 2021 02:26:25 +0300
+Build-Date: Wed, 14 Jul 2021 13:01:08 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -45,7 +45,7 @@ Installed-Build-Depends:
  bsdutils (= 1:2.33.1-0.1),
  build-essential (= 12.6),
  bzip2 (= 1.0.6-9.2~deb10u1),
- clang-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ clang-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  cmake (= 3.13.4-1),
  cmake-data (= 3.13.4-1),
  coreutils (= 8.30-3),
@@ -109,9 +109,9 @@ Installed-Build-Depends:
  libc6-i386 (= 2.28-10),
  libcap-ng0 (= 0.7.9-2),
  libcc1-0 (= 8.3.0-6),
- libclang-common-11-dev (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang-cpp11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang1-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libclang-common-12-dev (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang-cpp12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang1-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  libcom-err2 (= 1.44.5-1+deb10u3),
  libcroco3 (= 0.6.12-3),
  libcups2 (= 2.2.10-6+deb10u4),
@@ -188,7 +188,7 @@ Installed-Build-Depends:
  libkrb5support0 (= 1.17-3+deb10u1),
  libldap-2.4-2 (= 2.4.47+dfsg-3+deb10u6),
  libldap-common (= 2.4.47+dfsg-3+deb10u6),
- libllvm11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libllvm12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  liblsan0 (= 8.3.0-6),
  libltdl-dev (= 2.4.6-9),
  libltdl7 (= 2.4.6-9),
@@ -304,6 +304,7 @@ Installed-Build-Depends:
  libzstd-dev (= 1.3.8+dfsg-3+deb10u2),
  libzstd1 (= 1.3.8+dfsg-3+deb10u2),
  linux-libc-dev (= 4.19.194-2),
+ llvm-12-linker-tools (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  login (= 1:4.5-1.1),
  lsb-base (= 10.2019051400),
  m4 (= 1.4.18-2),
