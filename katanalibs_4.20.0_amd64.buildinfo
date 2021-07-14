@@ -4,17 +4,17 @@ Binary: katanalibs
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 505f7715ed49b3769bc4253a88ceb4a2 105884212 katanalibs-dbgsym_4.20.0_amd64.deb
- 79e7f6567c78567d807670be6cf48913 8208448 katanalibs_4.20.0_amd64.deb
+ d9d98cc2c08fee0c5f9ca02f38543fe7 105098996 katanalibs-dbgsym_4.20.0_amd64.deb
+ 54d2dec6d0bfd055f43d1f32026879b0 8173372 katanalibs_4.20.0_amd64.deb
 Checksums-Sha1:
- f10b59bff99809eef41b21125f42492e2172a62a 105884212 katanalibs-dbgsym_4.20.0_amd64.deb
- 3aac1d671e0422f909306ebe6ac28b0cdce09ab3 8208448 katanalibs_4.20.0_amd64.deb
+ 1ded5034e9f3b249648805f2a2bedd97ed28f6ad 105098996 katanalibs-dbgsym_4.20.0_amd64.deb
+ 52a61f9c13995e5f3ecb42ed8da9f3669c7328ca 8173372 katanalibs_4.20.0_amd64.deb
 Checksums-Sha256:
- 35351f2ee790001814200c0f5644a94e0aad6015d5be1348dbf8927106a22c7f 105884212 katanalibs-dbgsym_4.20.0_amd64.deb
- 802b445619d874e2732726b1e0681476b198c2af9a747cd686459b1c35ae8e82 8208448 katanalibs_4.20.0_amd64.deb
+ 183a56cea4a2df070a5f75b306c96bd4aa0bd0381a83823d6a2228919c88e2aa 105098996 katanalibs-dbgsym_4.20.0_amd64.deb
+ acbf95e3aa68f22c6c4f9483238ff5c5d541eb87bf5222390dba349ff3823f71 8173372 katanalibs_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 13 Jul 2021 23:32:34 +0300
+Build-Date: Wed, 14 Jul 2021 02:41:51 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
