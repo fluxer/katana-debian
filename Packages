@@ -49,12 +49,12 @@ Package: katana-l10n
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 169067
+Installed-Size: 170129
 Filename: ./katana-l10n_4.20.0_amd64.deb
-Size: 21585892
-MD5sum: ca185f32db6d76414b62b80ad7f65f8f
-SHA1: 556816e7b06b2d4aa5296a5537b2337f514a3980
-SHA256: d69b92c5a1438c1715d958a051aac9410d426e7b9d321309c3a58dbbab3667cc
+Size: 21762476
+MD5sum: a438de29acfab8095e65dc8aefb8c18e
+SHA1: dc2fadf86dfad84d8f4a995b3270710c6d780cdb
+SHA256: 5d9b26193369adfc18eaeecbbe97f4acaed73ee472dc21b672493366e098a159
 Section: localization
 Priority: optional
 Homepage: https://github.com/fluxer/kde-l10n

@@ -15,11 +15,11 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- 77b96e5162277c32d5d48a41cf178e9d8e9e6927 13637 katana-l10n_4.20.0_amd64.buildinfo
- 556816e7b06b2d4aa5296a5537b2337f514a3980 21585892 katana-l10n_4.20.0_amd64.deb
+ ad0145af187f676a2fb04d2ca9e6a513fbda3db2 13729 katana-l10n_4.20.0_amd64.buildinfo
+ dc2fadf86dfad84d8f4a995b3270710c6d780cdb 21762476 katana-l10n_4.20.0_amd64.deb
 Checksums-Sha256:
- 8eee390ed2b2c73904060f04f140e213c628f46370eaab201d184c2a0448a8af 13637 katana-l10n_4.20.0_amd64.buildinfo
- d69b92c5a1438c1715d958a051aac9410d426e7b9d321309c3a58dbbab3667cc 21585892 katana-l10n_4.20.0_amd64.deb
+ cc081c53ac76991cd2b2f02ad0f7c3b99c8c8167a4163249820f7b43aeb1f0d4 13729 katana-l10n_4.20.0_amd64.buildinfo
+ 5d9b26193369adfc18eaeecbbe97f4acaed73ee472dc21b672493366e098a159 21762476 katana-l10n_4.20.0_amd64.deb
 Files:
- dde4a83e001d40495b80d17de83f7c25 13637 localization optional katana-l10n_4.20.0_amd64.buildinfo
- ca185f32db6d76414b62b80ad7f65f8f 21585892 localization optional katana-l10n_4.20.0_amd64.deb
+ 68fb0dd9a451fe5dff3d039a3de60715 13729 localization optional katana-l10n_4.20.0_amd64.buildinfo
+ a438de29acfab8095e65dc8aefb8c18e 21762476 localization optional katana-l10n_4.20.0_amd64.deb
