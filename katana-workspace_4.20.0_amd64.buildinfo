@@ -4,17 +4,17 @@ Binary: katana-workspace
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 97fade3e9ca064db6c6dd141e8154753 198915232 katana-workspace-dbgsym_4.20.0_amd64.deb
- 31468e7d6450c148d64a343242224a25 23466036 katana-workspace_4.20.0_amd64.deb
+ 9519922aefd9ca84ba68097a3e850072 199248100 katana-workspace-dbgsym_4.20.0_amd64.deb
+ 7ec9ae6112056884d587c80b4b611b18 23492316 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha1:
- 8f4e80ed654d45f164605f456dd9a25f4e72a723 198915232 katana-workspace-dbgsym_4.20.0_amd64.deb
- 4f07d778f2fdf8816ca945c58948d28832f35c20 23466036 katana-workspace_4.20.0_amd64.deb
+ 4125841305707110ec248e17c49ff1fbb0172035 199248100 katana-workspace-dbgsym_4.20.0_amd64.deb
+ f6341fc4ef045d23e930ec8a78f611fd842ff379 23492316 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha256:
- 189842b523be257136e2664223a3c6f84dfeca97422a057b13bc865b9a7ba813 198915232 katana-workspace-dbgsym_4.20.0_amd64.deb
- 41f0a44819385444537355dded0770f916c1cc8a25876300dd04c0f5461140ba 23466036 katana-workspace_4.20.0_amd64.deb
+ 65c07479c8ffa199d1913fe9bc0d87b12211ce0a2038839cfc875b7919a2cbcd 199248100 katana-workspace-dbgsym_4.20.0_amd64.deb
+ 77fae8acb7869170a75ec648183e6bc39dfeb838e474ba4af47211f0e0c565b9 23492316 katana-workspace_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 14 Jul 2021 18:40:43 +0300
+Build-Date: Wed, 14 Jul 2021 22:43:28 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -177,6 +177,8 @@ Installed-Build-Depends:
  libegl1-mesa-dev (= 18.3.6-2+deb10u1),
  libelf1 (= 0.176-1.1),
  libenchant1c2a (= 1.6.0-11.1+b1),
+ libexif-dev (= 0.6.21-5.1+deb10u5),
+ libexif12 (= 0.6.21-5.1+deb10u5),
  libexiv2-14 (= 0.25-4+deb10u1),
  libexpat1 (= 2.2.6-2+deb10u1),
  libexpat1-dev (= 2.2.6-2+deb10u1),
@@ -201,6 +203,7 @@ Installed-Build-Depends:
  libgcc-8-dev (= 8.3.0-6),
  libgcc1 (= 1:8.3.0-6),
  libgcrypt20 (= 1.8.4-5+deb10u1),
+ libgd3 (= 2.2.5-5.2),
  libgdbm-compat4 (= 1.18.1-4),
  libgdbm6 (= 1.18.1-4),
  libgdk-pixbuf2.0-0 (= 2.38.1+dfsg-1),
@@ -232,6 +235,9 @@ Installed-Build-Depends:
  libgnutls30 (= 3.6.7-4+deb10u7),
  libgomp1 (= 8.3.0-6),
  libgpg-error0 (= 1.35-1),
+ libgphoto2-6 (= 2.5.22-3),
+ libgphoto2-dev (= 2.5.22-3),
+ libgphoto2-port12 (= 2.5.22-3),
  libgps-dev (= 3.17-7),
  libgps23 (= 3.17-7),
  libgraphite2-3 (= 1.3.13-7),
