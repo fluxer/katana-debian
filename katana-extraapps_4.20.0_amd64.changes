@@ -16,13 +16,13 @@ Changes:
    * Package update
 Checksums-Sha1:
  b9e53d8116aad3b4076f194435701dafd2aeb13d 214315124 katana-extraapps-dbgsym_4.20.0_amd64.deb
- c44a387b1cdcfc12b1e31af78b5f7c708ce257b5 28994 katana-extraapps_4.20.0_amd64.buildinfo
+ e84f33cb7cebdb276dc1d5785868890805ccebaf 29086 katana-extraapps_4.20.0_amd64.buildinfo
  e0779e9d308b7325bd468b3cd3f404c959f37e07 11558108 katana-extraapps_4.20.0_amd64.deb
 Checksums-Sha256:
  0464ff0b13434991312b0960dc4994690f1c3b95a523a21b85b2ad29e643c2c8 214315124 katana-extraapps-dbgsym_4.20.0_amd64.deb
- 1a807118b66380c87f5601ad095f1c2006cd94dca53b5a3681c17e0a20c1cce0 28994 katana-extraapps_4.20.0_amd64.buildinfo
+ 41e81f10af27768a88be55bd503d662424ed0de5713f6d09b31350a62354f3e2 29086 katana-extraapps_4.20.0_amd64.buildinfo
  be723d97a14a4a6ca505dcc2565453e7d36d758e08b2ba389901436b4d38e33e 11558108 katana-extraapps_4.20.0_amd64.deb
 Files:
  9b2735cd0c4b4be5dbad1699497090d1 214315124 debug optional katana-extraapps-dbgsym_4.20.0_amd64.deb
- 3d6aee2e4b127fc802514f053fb13e8e 28994 x11 optional katana-extraapps_4.20.0_amd64.buildinfo
+ 63353df274980fe05f9d58a37636a826 29086 x11 optional katana-extraapps_4.20.0_amd64.buildinfo
  12e8c6b14cfa7758555828964d35504a 11558108 x11 optional katana-extraapps_4.20.0_amd64.deb

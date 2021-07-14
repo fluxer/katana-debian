@@ -14,7 +14,7 @@ Checksums-Sha256:
  be723d97a14a4a6ca505dcc2565453e7d36d758e08b2ba389901436b4d38e33e 11558108 katana-extraapps_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 14 Jul 2021 03:44:45 +0300
+Build-Date: Wed, 14 Jul 2021 04:19:19 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -41,7 +41,7 @@ Installed-Build-Depends:
  build-essential (= 12.6),
  bzip2 (= 1.0.6-9.2~deb10u1),
  ca-certificates (= 20200601~deb10u2),
- clang-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ clang-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  cmake (= 3.13.4-1),
  cmake-data (= 3.13.4-1),
  coreutils (= 8.30-3),
@@ -211,9 +211,9 @@ Installed-Build-Depends:
  libcdio-paranoia2 (= 10.2+0.94+2-4),
  libcdio18 (= 2.0.0-2),
  libchromaprint1 (= 1.4.3-3),
- libclang-common-11-dev (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang-cpp11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
- libclang1-11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libclang-common-12-dev (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang-cpp12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
+ libclang1-12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  libcln-dev (= 1.3.4-4),
  libcln6 (= 1.3.4-4),
  libcodec2-0.8.1 (= 0.8.1-2),
@@ -430,7 +430,7 @@ Installed-Build-Depends:
  libldap-common (= 2.4.47+dfsg-3+deb10u6),
  libldb1 (= 2:1.5.1+really1.4.6-3+deb10u1),
  liblilv-0-0 (= 0.24.2~dfsg0-2),
- libllvm11 (= 1:11.1.0~++20210622113218+1fdec59bffc1-1~exp1~20210622213839.163),
+ libllvm12 (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  libllvm7 (= 1:7.0.1-8+deb10u2),
  liblmdb0 (= 0.9.22-1),
  liblocale-gettext-perl (= 1.07-3+b4),
@@ -779,6 +779,7 @@ Installed-Build-Depends:
  libzvbi-common (= 0.2.35-16),
  libzvbi0 (= 0.2.35-16),
  linux-libc-dev (= 4.19.194-2),
+ llvm-12-linker-tools (= 1:12.0.1~++20210630032607+fed41342a82f-1~exp1~20210630133324.130),
  lm-sensors (= 1:3.5.0-3),
  locate (= 4.6.0+git+20190209-2),
  login (= 1:4.5-1.1),
