@@ -4,17 +4,17 @@ Binary: katana-workspace
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 27740b15d3c849f4ffa502795e002797 199230768 katana-workspace-dbgsym_4.20.0_amd64.deb
- 493fda2d7ac8af991ad179c1cd31362c 23495684 katana-workspace_4.20.0_amd64.deb
+ b6a78612117210890431c63f33b764b7 199226748 katana-workspace-dbgsym_4.20.0_amd64.deb
+ ccd5b9a65ceeb4925924d9f9d2695d60 23492972 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha1:
- 91e6224dedbcd6b4806408cca7eb21c36763209e 199230768 katana-workspace-dbgsym_4.20.0_amd64.deb
- d6c1ecba3ca4619813247a409100e0fa93ffde1c 23495684 katana-workspace_4.20.0_amd64.deb
+ 9784f22c6597b39ca873101cf4979ece2a1ddcfb 199226748 katana-workspace-dbgsym_4.20.0_amd64.deb
+ d68fda249f03d6e4da49477ecd3a1e998c462e0d 23492972 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha256:
- 3343b88dc83350723d2a2ab82530e3ca157dfa8e8f20ebff6e37751c0ef75786 199230768 katana-workspace-dbgsym_4.20.0_amd64.deb
- be16eda4fb169a2cf4b5e5f7f233043ef1817f82335c4b4e2f16c828cc9709fe 23495684 katana-workspace_4.20.0_amd64.deb
+ 24cf38cfb598ab6efeef59bdebd80d207df0833bd11f525551ded8acd377d2d1 199226748 katana-workspace-dbgsym_4.20.0_amd64.deb
+ 1b13e349a83b0b7bb1e337a405d4b89f2f88b602c8267acd91a56eb69cd78eec 23492972 katana-workspace_4.20.0_amd64.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Thu, 15 Jul 2021 13:07:59 +0300
+Build-Date: Thu, 15 Jul 2021 15:25:56 +0300
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
